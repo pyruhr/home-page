@@ -690,7 +690,7 @@ a {
 }
 .cid-ss26uosBBF {
   display: flex;
-  background-image: url("../../../assets/images/pexels-abdulmeilk-aldawsari-36704-2000x1333.jpg");
+  background-image: url("../../../assets/images/pexels-ahmet-polat-4242107-2000x2500.jpg");
 }
 .cid-ss26uosBBF .mbr-overlay {
   background-color: #353535;
@@ -701,7 +701,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-ss26uosBBF {
-    align-items: center;
+    align-items: flex-end;
   }
   .cid-ss26uosBBF .row {
     justify-content: flex-start;
@@ -729,11 +729,11 @@ a {
   }
 }
 .cid-ss26uosBBF .mbr-section-title {
-  color: #353535;
+  color: #ffffff;
 }
 .cid-ss26uosBBF .mbr-text,
 .cid-ss26uosBBF .mbr-section-btn {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-ss22KUT5Sw {
   padding-top: 6rem;
@@ -1191,42 +1191,6 @@ a {
 }
 .cid-ss29dXpVs9 .row {
   justify-content: center;
-}
-.cid-srVFOqptbO {
-  background-color: #fafafa;
-}
-.cid-srVFOqptbO .mbr-text,
-.cid-srVFOqptbO .mbr-section-btn {
-  color: #232323;
-}
-@media (max-width: 991px) {
-  .cid-srVFOqptbO .mbr-text,
-  .cid-srVFOqptbO .mbr-section-title {
-    text-align: center;
-  }
-}
-.cid-srVFOqptbO a.btn {
-  height: 100%;
-  margin: 0;
-}
-.cid-srVFOqptbO .mbr-section-btn {
-  display: flex;
-  margin-bottom: 1.2rem;
-  width: 100%;
-}
-.cid-srVFOqptbO .mbr-section-btn .btn {
-  width: 100%;
-}
-@media (max-width: 991px) {
-  .cid-srVFOqptbO .image-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-srVFOqptbO .content-wrapper {
-    flex-direction: column-reverse;
-  }
-}
-.cid-srVFOqptbO .justify-content-center {
-  align-items: center;
 }
 .cid-srVEZ4byeE {
   padding-top: 5rem;
